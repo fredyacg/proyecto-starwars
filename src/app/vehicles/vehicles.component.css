@@ -1,0 +1,10 @@
+.bg-img {
+   
+    background-image: url("src\app\imagenes\starwars.jpg");
+    min-height:  740px;
+    display: block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
